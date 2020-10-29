@@ -5,5 +5,9 @@ Description: Processed data from KIRBY21 dataset.
 Author: Jean-Philippe Fortin, Russell T. Shinohara
 Maintainer: Jean-Philippe Fortin <fortin946@gmail.com>
 License: GPL-2
-
-
+Additional_repositories: https://neuroconductor.org/releases/2020/10/
+Repository: Neuroconductor-Releases
+Suggests: 
+    covr,
+    testthat
+biocViews: 
